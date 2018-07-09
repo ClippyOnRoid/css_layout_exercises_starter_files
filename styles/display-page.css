@@ -1,0 +1,48 @@
+main{
+   padding:30px;
+	font-size :0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+
+}
+
+
+.rec1 {
+     height : 200px;
+	width: 50%;
+	display: inline-block;
+	font-size :0;
+	border : 1px solid black;
+
+}
+
+.rec1.one {
+	background-color: green;
+}
+
+.rec1.two {
+	background-color: blue;
+}
+
+
+.rec2 {
+     height : 300px;
+	width: 33.33%;
+	display: inline-block;
+	font-size :0;
+	border : 1px solid black;
+}
+
+.rec2.one {
+		background-color: grey;
+
+}
+
+.rec2.two{
+	background-color: black;
+}
+
+.rec2.three{
+	background-color: yellow;
+}
